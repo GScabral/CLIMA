@@ -1,0 +1,34 @@
+.nav_home {
+    margin-bottom: 20px;
+  }
+  
+  .Clima_container {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Clima_container h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .Clima_container p {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .Clima_container img {
+    width: 100px;
+    height: auto;
+  }
+  
+  .weather_icon {
+    display: flex;
+    align-items: center;
+  }
+  
+  .weather_icon img {
+    margin-left: 10px;
+  }
